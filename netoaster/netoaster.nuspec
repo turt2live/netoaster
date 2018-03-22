@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>turt2live-$id$</id>
     <version>1.0.8</version>
-    <title>netoaster</title>
+    <title>turt2live-netoaster</title>
     <authors>Zach Russell (zachatrocity)</authors>
     <owners>$author$</owners>
     <licenseUrl>https://github.com/zachatrocity/netoaster/blob/master/LICENSE</licenseUrl>
     <projectUrl>http://www.github.com/zachatrocity/netoaster</projectUrl>
     <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A .net WPF toaster library for very simple and slightly customizable toaster notifications. For instructions on how to use check out the github (https://github.com/zachatrocity/netoaster)</description>
+    <description>This package is relatively unmaintained. See https://github.com/zachatrocity/netoaster/pull/13 for more information.</description>
     <releaseNotes>Added back InfoToaster</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>toaster notification toast ngtoast</tags>
